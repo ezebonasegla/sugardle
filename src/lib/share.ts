@@ -23,7 +23,7 @@ export const shareStatus = (
     }/${MAX_CHALLENGES}${isHardMode ? '*' : ''}\n\n` +
     generateEmojiGrid(guesses, getEmojiTiles(isDarkMode, isHighContrastMode)) +
     '\n\n' +
-    '#boludle'
+    '#Sugardle'
 
   const shareData = { text: textToShare }
 

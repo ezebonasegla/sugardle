@@ -1,13 +1,7 @@
-# Boludle
+# Sugardle
 
-https://www.boludle.com/
+https://www.sugardle.netlify.app/
 
 Fork from https://github.com/cwackerfuss/react-wordle
 
-To deploy:
 
-```bash
-$> cd boludle
-$> npm install
-$> npm run deploy
-```

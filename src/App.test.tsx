@@ -20,6 +20,6 @@ beforeEach(() => {
 
 test('renders App component', () => {
   render(<App />)
-  const linkElement = screen.getByText('boludle')
+  const linkElement = screen.getByText('Sugardle')
   expect(linkElement).toBeInTheDocument()
 })
