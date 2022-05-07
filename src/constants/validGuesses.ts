@@ -7828,6 +7828,7 @@ export const VALID_GUESSES = [
   'priva',
   'prive',
   'privo',
+  'padel',
   'proal',
   'proas',
   'proba',
