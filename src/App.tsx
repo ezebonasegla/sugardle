@@ -8,6 +8,7 @@ import {
   GAME_COPIED_MESSAGE,
   NOT_ENOUGH_LETTERS_MESSAGE,
   WORD_NOT_FOUND_MESSAGE,
+  WORD_NICO_MESSAGE,
   CORRECT_WORD_MESSAGE,
 } from './constants/strings'
 import {
@@ -126,6 +127,12 @@ function App() {
     if (!(unicodeLength(currentGuess) === MAX_WORD_LENGTH)) {
       setCurrentRowClass('jiggle')
       return showErrorAlert(NOT_ENOUGH_LETTERS_MESSAGE, {
+        onClose: clearCurrentRowClass,
+      })
+    }
+
+    if( currentGuess === 'NICOR') {
+      return showErrorAlert(WORD_NICO_MESSAGE, {
         onClose: clearCurrentRowClass,
       })
     }

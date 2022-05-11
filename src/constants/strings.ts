@@ -9,6 +9,7 @@ export const GAME_COPIED_MESSAGE = 'partida de juego copiada'
 export const NOT_ENOUGH_LETTERS_MESSAGE =
   'te faltan letras boludo'
 export const WORD_NOT_FOUND_MESSAGE = 'la palabra no existe pa, agarra un diccionario o lee de nuevo el grupo'
+export const WORD_NICO_MESSAGE = 'jaja nicornudo'
 export const HARD_MODE_ALERT_MESSAGE =
   'Hard Mode can only be enabled at the start!'
 export const HARD_MODE_DESCRIPTION =
