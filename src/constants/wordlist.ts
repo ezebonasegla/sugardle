@@ -78,10 +78,24 @@ const DEFINITIONS: Definition[] = [
       'jasjas ya te dormi las 18 lucas y la jermu',
   },
   {
+    word: 'censo',
+    definition:
+      'FELIZ DIA DEL CENSO !',
+    example:
+      'DONDE CENSO?',
+  },
+  {
     word: 'pollo',
     definition: 'conseguir algo easy',
     example:
       'yo estoy nazi haciendome pollo a tu jermu rellenandola de leche',
+  },
+  {
+    word: 'sugar',
+    definition:
+      'el mejor grupo de la historia',
+    example:
+      'En unos años sugar juntada en españa',
   },
   {
     word: 'virgo',

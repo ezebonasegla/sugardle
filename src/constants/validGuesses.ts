@@ -9214,6 +9214,7 @@ export const VALID_GUESSES = [
   'sufre',
   'sufri',
   'sufro',
+  'sugar',
   'suido',
   'suita',
   'suite',
