@@ -162,13 +162,80 @@ const DEFINITIONS: Definition[] = [
     word: 'skere',
     definition: 'duko old',
     example:
-      'Pum shakalakapum Skere',
+    'Pum shakalakapum Skere',
   },
   {
     word: 'lompa',
     definition: 'sinónimo de pantalón.',
     example:
-      'Le tuve q prestar mi lompa a un compañero porque se le mojo todo y se iba a laburar pobre',
+    'Le tuve q prestar mi lompa a un compañero porque se le mojo todo y se iba a laburar pobre',
+  },
+  {
+    word: 'bresh',
+    definition: 'a lo que nico nunca fue',
+    example:
+      'Dale messi venite a la bresh hoy',
+  },
+  {
+    word: 'sorry',
+    definition: 'perdon',
+    example:
+    'SORRY PAPII YO NO SOY TU MAMI',
+  },
+  {
+    word: 'nafta',
+    definition: 'el gasolina',
+    example:
+    'ponemos 250 de nafta cada uno. Con 300 pesos en el tanque de gas t vas a gualeguaychu',
+  },
+  {
+    word: 'gorra',
+    definition: 'la policia',
+    example:
+    'Me agarro la gorra, estoy en Devoto, Me armaron causa',
+  },
+  {
+    word: 'mecha',
+    definition: 'fms man',
+    example:
+    'a no na q ver mecha zaina',
+  },
+  {
+    word: 'waska',
+    definition: 'sin comentarios',
+    example:
+    'Tiene algo muy cercano a mi waska',
+  },
+  {
+    word: 'lorca',
+    definition: 'vesre de "calor".',
+    example:
+    'Tengo un lorca',
+  },
+  {
+    word: 'yerba',
+    definition:
+    'hojas desecadas, ligeramente tostadas usadas para elaborar el mate.',
+    example:
+    'Eso no es yerba Nicki Nicole noooo',
+  },
+  {
+    word: 'menem',
+    definition: 'se escribe igual de derecha a izquierda y viceversa ajska.',
+    example:
+    'menem voto desde el cielo JAJAJAJAJ',
+  },
+  {
+    word: 'ñapis',
+    definition: 'juju c piko',
+    example:
+    'Si igual en una buena joda siempre hay un par de ñapis',
+  },
+  {
+    word: 'merca',
+    definition: 'solamente para que messi gane a la primera',
+    example:
+    'Nico gonzalez es mas malo que un kilo de merca despues de mates con pablo escobar y una joda con ronaldinho',
   },
   {
     word: 'piola',
@@ -177,59 +244,28 @@ const DEFINITIONS: Definition[] = [
       'Quiero ver un video pero no encuentro uno piola',
   },
   {
-    word: 'sorry',
-    definition: 'perdon',
+    word: 'holan',
+    definition: 'dt rojo 2017',
     example:
-      'SORRY PAPII YO NO SOY TU MAMI',
+      'Es q nos dimos cuenta q desde q se fue holan no tuvimos un buen dt',
   },
   {
-    word: 'pique',
-    definition: 'jogador do futebol o picnharla',
+    word: 'kenai',
+    definition: 'que no',
     example:
-      'Y de bruyne le pique un penal a courtois',
+    'Kenai, Yo de movida tengo 6/7',
   },
   {
-    word: 'gorra',
-    definition: 'la policia',
+    word: 'tecno',
+    definition: 'joda nefasta',
     example:
-      'Me agarro la gorra, estoy en Devoto, Me armaron causa',
+      'Fran se quedo con unos amigos en una joda tecno y no volvio al depto',
   },
   {
-    word: 'pinta',
-    definition: 'buena apariencia.',
+    word: 'speed',
+    definition: 'elixir',
     example:
-      'Cristiano tiene 37 y juega premier pinta para jugar hsata los 39/40 si quiere',
-  },
-  {
-    word: 'minga',
-    definition: 'usase para negar lo que dice alguien fuertemente.',
-    example:
-      'Trini me prestás la remera de encaje para la salida de hoy?" "minga!! la última vez la manchaste toda',
-  },
-  {
-    word: 'lorca',
-    definition: 'vesre de "calor".',
-    example:
-      'Tengo un lorca',
-  },
-  {
-    word: 'yerba',
-    definition:
-      'hojas desecadas, ligeramente tostadas usadas para elaborar el mate.',
-    example:
-      'Eso no es yerba Nicki Nicole noooo',
-  },
-  {
-    word: 'bajon',
-    definition: 'depresión, falta de ánimo.',
-    example:
-      'Me bajonee porque no podemos aslir al final :(',
-  },
-  {
-    word: 'ñapis',
-    definition: 'juju c piko',
-    example:
-      'Si igual en una buena joda siempre hay un par de ñapis',
+      'Yo tengo un smirf y speed',
   },
 ]
 
