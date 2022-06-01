@@ -207,12 +207,6 @@ const DEFINITIONS: Definition[] = [
     'Tiene algo muy cercano a mi waska',
   },
   {
-    word: 'lorca',
-    definition: 'vesre de "calor".',
-    example:
-    'Tengo un lorca',
-  },
-  {
     word: 'yerba',
     definition:
     'hojas desecadas, ligeramente tostadas usadas para elaborar el mate.',
@@ -236,6 +230,12 @@ const DEFINITIONS: Definition[] = [
     definition: 'solamente para que messi gane a la primera',
     example:
     'Nico gonzalez es mas malo que un kilo de merca despues de mates con pablo escobar y una joda con ronaldinho',
+  },
+  {
+    word: 'juako',
+    definition: 'el juaako',
+    example:
+      'Voy a hacer el sugardle pero con lugares que visita Juako',
   },
   {
     word: 'piola',
