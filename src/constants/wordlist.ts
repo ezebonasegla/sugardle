@@ -267,6 +267,72 @@ const DEFINITIONS: Definition[] = [
     example:
       'Yo tengo un smirf y speed',
   },
+  {
+    word: 'chill',
+    definition: 'relax',
+    example:
+      'Daaale pa todo muy chill hoy',
+  },
+  {
+    word: 'leche',
+    definition: 'lo q te gusta golosa',
+    example:
+      'yo estoy nazi haciendome pollo a tu jermu rellenandola a tu jermu',
+  },
+  {
+    word: 'pasao',
+    definition: 'big apple',
+    example:
+      'NO TIENE SENTIDO Q A PASAO',
+  },
+  {
+    word: 'apple',
+    definition: 'como no vas a tener iphone',
+    example:
+      'si no confia en apple en el gobierno aegentino',
+  },
+  {
+    word: 'coscu',
+    definition: 'maximo virgolini',
+    example:
+      'Clases de coscu para la derecha',
+  },
+  {
+    word: 'hooka',
+    definition: 'song',
+    example:
+      'Hooka de Don Omar',
+  },
+  {
+    word: 'ozuna',
+    definition: 'si tu marido no te quiere',
+    example:
+      'Si se da remix 2 ft Bad Bunny y Ozuna',
+  },
+  {
+    word: 'madre',
+    definition: 'mama',
+    example:
+      'Y a mi ni me la aceptaron la concha de mi madre',
+  },
+  {
+    word: 'perro',
+    definition: 'roco',
+    example:
+      'Mi segundo nombre es perro',
+    },
+    {
+      word: 'frijo',
+      definition: 'la mejor brzp',
+      example:
+        'la brzp de cro le pelea a frijo',
+    },
+  {
+    word: 'audio',
+    definition: 'un audio',
+    example:
+      'No te pueden mandar un audio asi re voz tierna y decir ida',
+  },
 ]
 
 let WORDS: string[] = []
