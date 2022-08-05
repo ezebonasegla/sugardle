@@ -6,333 +6,144 @@ type Definition = {
 
 const DEFINITIONS: Definition[] = [
   {
-    word: 'gorda',
-    definition: 'la que se comio juako en jofiel',
+    word: 'nazi',
+    definition: 'hitler moment',
     example:
-      'nos vamos pA TU CASA GORDA PUTAAAAA',
+      'Ta nazi eh ya esta metido',
   },
   {
-    word: 'padel',
-    definition: 'deporte para putos',
+    word: 'absolut',
+    definition: 'dale nico no te hagas el boludo',
     example:
-      'Uuuh esas pal padel juegan eh',
+      'nico o nicomprame el absolut de miami hijo de puta',
   },
   {
-    word: 'cacha',
-    definition: 'enemigo de papo',
+    word: 'problema',
+    definition: 'lo que causan ellas',
     example:
-      'Cacha hijo de puta te detesto',
+      'no puedo hablar con nadie, todas me bloquean, cual es mi problema',
   },
   {
-    word: 'milei',
-    definition: 'futuro presidente pa',
-    example: 'Quien es ese Milei q en 2023 saco 20%',
+    word: 'celula',
+    definition: 'la cosa que se mueve',
+    example:
+      'tipos d joako la celula',
   },
   {
-    word: 'crack',
-    definition: 'el mas capo',
+    word: 'buitre',
+    definition: 'chaja',
     example:
-      'Como no vas a amar a Crackrrascal',
+      'El verdad buitre',
   },
   {
-    word: 'bocha',
-    definition: 'dios del rojo',
+    word: 'esponja',
+    definition: 'con lo que te limpias el culo',
     example:
-      'Pero no hay nadie mas grande q el.bocha',
+      'Tenia concha o una esponja de metal',
   },
   {
-    word: 'fulbo',
-    definition: 'el deporte de messi',
+    word: 'caño',
+    definition: 'dos significados',
     example:
-      'Mareque es la definicion de fulbo',
+      'ME DUELE LA CABEZA DE LA CHOTA NO SE SI SE LA PUSE A UNA MINA O AL CAÑO DE ESCAPE DEL AUTO',
   },
   {
-    word: 'chelo',
-    definition: 'el noba y te re suena',
+    word: 'desnudo',
+    definition: 'bona sobrio',
     example:
-      'A las 6 juega el rojo: no tamo chelo',
+      'ESTOY DESNUDO',
   },
   {
-    word: 'colta',
-    definition: 'el duko no quiere problemas',
+    word: 'context',
+    definition: 'contexto',
     example:
-      'Lesionaba a Messi y salia a matar venezolanos COLTA',
+      'OUT OF CONTEXT BONASEGLA',
   },
   {
-    word: 'clave',
-    definition: 'algo ideal',
+    word: 'corcho',
+    definition: 'esta loco',
     example:
-      'Duos en platino es la clave para salir de platino',
+      'el loco corcho',
   },
   {
-    word: 'putas',
-    definition: 'la jermu tuya',
+    word: 'emilia',
+    definition: 'la jermu del duko o ex depende cuando te toque esta palabra',
     example:
-      'Todas similarmente igual de putas',
+      'No va a salir ni a palos menos que esta con emilia',
   },
   {
-    word: 'jermu',
-    definition:
-      'lo que tienen algunos privilegiados',
+    word: 'neymar',
+    definition: 'jogo bonito',
     example:
-      'jasjas ya te dormi las 18 lucas y la jermu',
+      'Neymar viendo a Emilia con Duki',
   },
   {
-    word: 'censo',
-    definition:
-      'FELIZ DIA DEL CENSO !',
+    word: 'quilmes',
+    definition: 'la mejor ciudad',
     example:
-      'DONDE CENSO?',
+      'Vivo en Quilmes y no conozco el bosque',
   },
   {
-    word: 'pollo',
-    definition: 'conseguir algo easy',
+    word: 'falcioni',
+    definition: 'el dt mas veterano del mundo',
     example:
-      'yo estoy nazi haciendome pollo a tu jermu rellenandola de leche',
+      'Parece que falcioni nos sigue',
   },
   {
-    word: 'sugar',
-    definition:
-      'el mejor grupo de la historia',
+    word: 'cutarra',
+    definition: 'nadie sabe que significa',
     example:
-      'En unos años sugar juntada en españa',
+      'Cutarra no era marianetti?',
   },
   {
-    word: 'virgo',
-    definition: 'el mejor mensaje del grupo',
+    word: 'cutarra',
+    definition: 'nadie sabe que significa',
     example:
-      'Tomi Messita: soy un virgo',
+      'Cutarra no era marianetti?',
   },
   {
-    word: 'chota',
-    definition: 'nefasto',
+    word: 'riñon',
+    definition: 'parte del cuerpo',
     example:
-      'Che, target es una chota',
+      'Yo mañana voy a dejar hasta el riñon para comprar dolares',
   },
   {
-    word: 'posta',
-    definition: 'la verdad',
+    word: 'osm',
+    definition: 'jueguito',
     example:
-      'POSTA BOLUFO?',
+      'Dice Batakis q si compro 5 dolares de osm dejo sin laburo a la mitad de Chaco',
   },
   {
-    word: 'river',
-    definition: '912 moriste en madrid',
+    word: 'qatar',
+    definition: 'mundial do fuchibol',
     example:
-      'Que venga Holan a River cuando se vaya Gallardo',
+      'Che juako no te lleva a Qatar la chica esta',
   },
   {
-    word: 'brazo',
-    definition: 'los que algunos tienen y otros no',
+    word: 'flores',
+    definition: 'peligrosas',
     example:
-      'Tipo saco la cabeza por la reja y me cazo el brazo',
+      '1 medio, de flores buensa no tan buenas',
   },
   {
-    word: 'grata',
-    definition: 'googlealo',
+    word: 'ruggeri',
+    definition: 'el rustico',
     example:
-      'ella es grata y le gusta la rola',
+      'es una cuarto de libra pero te la trae ruggeri en moto',
   },
   {
-    word: 'messi',
-    definition: 'messita y lio',
+    word: 'discord',
+    definition: 'para el among us',
     example:
-      'No entres a mas lugares messita cagon',
+      'Yo ya empece a abrir discord',
   },
-  {
-    word: 'novia',
-    definition: 'pollerudos',
-    example:
-      'Le zarpamos la novia a joao',
-  },
-  {
-    word: 'basta',
-    definition: 'stop',
-    example:
-      'Bona: basta de rojos por favor',
-  },
-  {
-    word: 'amigo',
-    definition:
-      'se usa para referirse a alguien que compartis unos leo matiolis',
-    example:
-      'no se amigo nosotros descendimos',
-  },
-  {
-    word: 'skere',
-    definition: 'duko old',
-    example:
-    'Pum shakalakapum Skere',
-  },
-  {
-    word: 'lompa',
-    definition: 'sinónimo de pantalón.',
-    example:
-    'Le tuve q prestar mi lompa a un compañero porque se le mojo todo y se iba a laburar pobre',
-  },
-  {
-    word: 'bresh',
-    definition: 'a lo que nico nunca fue',
-    example:
-      'Dale messi venite a la bresh hoy',
-  },
-  {
-    word: 'sorry',
-    definition: 'perdon',
-    example:
-    'SORRY PAPII YO NO SOY TU MAMI',
-  },
-  {
-    word: 'nafta',
-    definition: 'el gasolina',
-    example:
-    'ponemos 250 de nafta cada uno. Con 300 pesos en el tanque de gas t vas a gualeguaychu',
-  },
-  {
-    word: 'gorra',
-    definition: 'la policia',
-    example:
-    'Me agarro la gorra, estoy en Devoto, Me armaron causa',
-  },
-  {
-    word: 'mecha',
-    definition: 'fms man',
-    example:
-    'a no na q ver mecha zaina',
-  },
-  {
-    word: 'waska',
-    definition: 'sin comentarios',
-    example:
-    'Tiene algo muy cercano a mi waska',
-  },
-  {
-    word: 'yerba',
-    definition:
-    'hojas desecadas, ligeramente tostadas usadas para elaborar el mate.',
-    example:
-    'Eso no es yerba Nicki Nicole noooo',
-  },
-  {
-    word: 'menem',
-    definition: 'se escribe igual de derecha a izquierda y viceversa ajska.',
-    example:
-    'menem voto desde el cielo JAJAJAJAJ',
-  },
-  {
-    word: 'ñapis',
-    definition: 'juju c piko',
-    example:
-    'Si igual en una buena joda siempre hay un par de ñapis',
-  },
-  {
-    word: 'merca',
-    definition: 'solamente para que messi gane a la primera',
-    example:
-    'Nico gonzalez es mas malo que un kilo de merca despues de mates con pablo escobar y una joda con ronaldinho',
-  },
-  {
-    word: 'juako',
-    definition: 'el juaako',
-    example:
-      'Voy a hacer el sugardle pero con lugares que visita Juako',
-  },
-  {
-    word: 'piola',
-    definition: 'algo buenardo',
-    example:
-      'Quiero ver un video pero no encuentro uno piola',
-  },
-  {
-    word: 'holan',
-    definition: 'dt rojo 2017',
-    example:
-      'Es q nos dimos cuenta q desde q se fue holan no tuvimos un buen dt',
-  },
-  {
-    word: 'kenai',
-    definition: 'que no',
-    example:
-    'Kenai, Yo de movida tengo 6/7',
-  },
-  {
-    word: 'tecno',
-    definition: 'joda nefasta',
-    example:
-      'Fran se quedo con unos amigos en una joda tecno y no volvio al depto',
-  },
-  {
-    word: 'speed',
-    definition: 'elixir',
-    example:
-      'Yo tengo un smirf y speed',
-  },
-  {
-    word: 'chill',
-    definition: 'relax',
-    example:
-      'Daaale pa todo muy chill hoy',
-  },
-  {
-    word: 'leche',
-    definition: 'lo q te gusta golosa',
-    example:
-      'yo estoy nazi haciendome pollo a tu jermu rellenandola a tu jermu',
-  },
-  {
-    word: 'pasao',
-    definition: 'big apple',
-    example:
-      'NO TIENE SENTIDO Q A PASAO',
-  },
-  {
-    word: 'apple',
-    definition: 'como no vas a tener iphone',
-    example:
-      'si no confia en apple en el gobierno aegentino',
-  },
-  {
-    word: 'coscu',
-    definition: 'maximo virgolini',
-    example:
-      'Clases de coscu para la derecha',
-  },
-  {
-    word: 'hooka',
-    definition: 'song',
-    example:
-      'Hooka de Don Omar',
-  },
-  {
-    word: 'ozuna',
-    definition: 'si tu marido no te quiere',
-    example:
-      'Si se da remix 2 ft Bad Bunny y Ozuna',
-  },
-  {
-    word: 'madre',
-    definition: 'mama',
-    example:
-      'Y a mi ni me la aceptaron la concha de mi madre',
-  },
-  {
-    word: 'perro',
-    definition: 'roco',
-    example:
-      'Mi segundo nombre es perro',
-    },
-    {
-      word: 'frijo',
-      definition: 'la mejor brzp',
-      example:
-        'la brzp de cro le pelea a frijo',
-    },
-  {
-    word: 'audio',
-    definition: 'un audio',
-    example:
-      'No te pueden mandar un audio asi re voz tierna y decir ida',
-  },
+
+
+
+
+
+
+
 ]
 
 let WORDS: string[] = []
