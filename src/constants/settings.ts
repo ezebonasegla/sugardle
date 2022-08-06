@@ -5,7 +5,7 @@ export const countLetters = (word: string) => {
 }
 
 export const checkWord = (word: string) => {
-    if (word.length == 5) {
+    if (word.length === 5) {
         return 6
     } else {
         return 7
