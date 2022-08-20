@@ -96,12 +96,6 @@ const DEFINITIONS: Definition[] = [
       'Cutarra no era marianetti?',
   },
   {
-    word: 'cutarra',
-    definition: 'nadie sabe que significa',
-    example:
-      'Cutarra no era marianetti?',
-  },
-  {
     word: 'riñon',
     definition: 'parte del cuerpo',
     example:
