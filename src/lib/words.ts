@@ -6,8 +6,7 @@ import { default as GraphemeSplitter } from 'grapheme-splitter'
 
 export const isWordInWordList = (word: string) => {
   return (
-    WORDS.includes(localeAwareLowerCase(word)) ||
-    VALID_GUESSES.includes(localeAwareLowerCase(word))
+    true
   )
 }
 
@@ -75,7 +74,7 @@ export const localeAwareUpperCase = (text: string) => {
 }
 
 export const getWordOfDay = () => {
-  const epochMs = new Date('Aug 5, 2022 00:00:00').valueOf()
+  const epochMs = new Date('Nov 10, 2024 00:00:00').valueOf()
   const now = Date.now()
   const msInDay = 86400000
   const index = Math.floor((now - epochMs) / msInDay)

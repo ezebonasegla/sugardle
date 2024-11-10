@@ -6,137 +6,153 @@ type Definition = {
 
 const DEFINITIONS: Definition[] = [
   {
-    word: 'nazi',
-    definition: 'hitler moment',
+    word: 'pecado',
+    definition: 'nico',
     example:
-      'Ta nazi eh ya esta metido',
+      'EL PRIMER PECADO CAPITAL DE LOSNSUGARDS DADDYS',
   },
   {
-    word: 'absolut',
-    definition: 'dale nico no te hagas el boludo',
+    word: 'audios',
+    definition: 'messi',
     example:
-      'nico o nicomprame el absolut de miami hijo de puta',
+      'El que manda audios en re contra puto a partir de este momento',
   },
   {
-    word: 'problema',
-    definition: 'lo que causan ellas',
+    word: 'sida',
+    definition: 'bona',
     example:
-      'no puedo hablar con nadie, todas me bloquean, cual es mi problema',
+      'como que no tuvieron nunca sida????',
   },
   {
-    word: 'celula',
-    definition: 'la cosa que se mueve',
+    word: 'vocacion',
+    definition: 'messi',
     example:
-      'tipos d joako la celula',
+      'Veo un culo y entrego hasta mi vocacion no puede ser',
   },
   {
-    word: 'buitre',
-    definition: 'chaja',
+    word: 'fonseca',
+    definition: 'lucho',
     example:
-      'El verdad buitre',
+      'Yo pensando q era argentino fonseca',
   },
   {
-    word: 'esponja',
-    definition: 'con lo que te limpias el culo',
+    word: 'arroz',
+    definition: 'joako',
     example:
-      'Tenia concha o una esponja de metal',
+      'Mati Díaz: YA ESTÁ EL ARROZ CHICOS',
+  }, {
+    word: 'descuajeringo',
+    definition: 'nico',
+    example:
+      'ME DESCUAJERINGO LA VIDA',
+  }, {
+    word: 'peron',
+    definition: 'bona',
+    example:
+      'VIVA PERÓN',
+  }, {
+    word: 'nelson',
+    definition: 'nico',
+    example:
+      'asjdjasd bona le di rt a lo q rteaste vos y me lo faveo walter nelson',
+  }, {
+    word: 'guardavidas',
+    definition: 'joako',
+    example:
+      'Con que te pensas que siguen arriba los guardavidas que salen todos los dias',
   },
   {
-    word: 'caño',
-    definition: 'dos significados',
+    word: 'chillar',
+    definition: 'bona',
     example:
-      'ME DUELE LA CABEZA DE LA CHOTA NO SE SI SE LA PUSE A UNA MINA O AL CAÑO DE ESCAPE DEL AUTO',
+      'Veni que te hago chillar el ogt puta',
+  }, {
+    word: 'autoridad',
+    definition: 'nico',
+    example:
+      'Sonos la autoridad sabes q esta negra d mierda la proxima la hago mierda',
+  }, {
+    word: 'policia',
+    definition: 'lucho',
+    example:
+      'Me cruce un policia y me robo',
+  }, {
+    word: 'beat',
+    definition: 'nico',
+    example:
+      'VENI QUE TE JAGO EL BEAT CACHETEANDOTE BIEN EL ORTO',
+  }, {
+    word: 'pito',
+    definition: 'bona',
+    example:
+      'Hay que conformarse con menos de 150kg y que no tenga pito',
+  }, {
+    word: 'abogarca',
+    definition: 'lucho',
+    example:
+      'Tengo el mismo vocabulario q un abogarca',
+  }, {
+    word: 'madrid',
+    definition: 'joako',
+    example:
+      'Filial Argentina de Guardavidas en Madrid',
   },
   {
-    word: 'desnudo',
-    definition: 'bona sobrio',
+    word: 'mommys',
+    definition: 'nico',
     example:
-      'ESTOY DESNUDO',
+      'Y q nuestras novias hagan un sugar mommys',
   },
   {
-    word: 'context',
-    definition: 'contexto',
+    word: 'pintura',
+    definition: 'messi',
     example:
-      'OUT OF CONTEXT BONASEGLA',
+      'Debe ser por q en casa tengo toda la pintura salida',
   },
   {
-    word: 'corcho',
-    definition: 'esta loco',
+    word: 'matraca',
+    definition: 'nico',
     example:
-      'el loco corcho',
+      'Me estan dando matraca con TODO',
   },
   {
-    word: 'emilia',
-    definition: 'la jermu del duko o ex depende cuando te toque esta palabra',
+    word: 'edad',
+    definition: 'messi',
     example:
-      'No va a salir ni a palos menos que esta con emilia',
+      'Man hace 8 meses no veo a una mina de mi edad',
+  }, {
+    word: 'independiente',
+    definition: 'nico',
+    example:
+      'se siente tipo: fua pensar q ahora nos damos besitos y en 10 años vas a estar pasando el trapo mientras miro el partido de independiente pensando que puta q sos',
+  }, {
+    word: 'lapicera',
+    definition: 'bona',
+    example:
+      'Todo para decir que rellenó la lapicera',
   },
   {
-    word: 'neymar',
-    definition: 'jogo bonito',
+    word: 'emergencia',
+    definition: 'nico',
     example:
-      'Neymar viendo a Emilia con Duki',
+      'debe ser q no les gustaa esa parte de la casa donde tengo atadas un par d minusas de emergencia',
   },
   {
-    word: 'quilmes',
-    definition: 'la mejor ciudad',
+    word: 'novio',
+    definition: 'messi',
     example:
-      'Vivo en Quilmes y no conozco el bosque',
-  },
-  {
-    word: 'falcioni',
-    definition: 'el dt mas veterano del mundo',
+      'El día q hable con una mina me pongo de novio',
+  }, {
+    word: 'cortante',
+    definition: 'nico',
     example:
-      'Parece que falcioni nos sigue',
-  },
-  {
-    word: 'cutarra',
-    definition: 'nadie sabe que significa',
+      'T CHAMUYABA MI EX CUÑADITA Y VOS ERAS RE CORTANTE',
+  }, {
+    word: 'jermu',
+    definition: 'bona',
     example:
-      'Cutarra no era marianetti?',
+      'Si te chamuyas a una soltera sos vos contra 30 si te chamuyas a la jermu de nico sos vos contra 1',
   },
-  {
-    word: 'riñon',
-    definition: 'parte del cuerpo',
-    example:
-      'Yo mañana voy a dejar hasta el riñon para comprar dolares',
-  },
-  {
-    word: 'osm',
-    definition: 'jueguito',
-    example:
-      'Dice Batakis q si compro 5 dolares de osm dejo sin laburo a la mitad de Chaco',
-  },
-  {
-    word: 'qatar',
-    definition: 'mundial do fuchibol',
-    example:
-      'Che juako no te lleva a Qatar la chica esta',
-  },
-  {
-    word: 'flores',
-    definition: 'peligrosas',
-    example:
-      '1 medio, de flores buensa no tan buenas',
-  },
-  {
-    word: 'ruggeri',
-    definition: 'el rustico',
-    example:
-      'es una cuarto de libra pero te la trae ruggeri en moto',
-  },
-  {
-    word: 'discord',
-    definition: 'para el among us',
-    example:
-      'Yo ya empece a abrir discord',
-  },
-
-
-
-
-
-
 
 ]
 
